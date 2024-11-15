@@ -1,8 +1,6 @@
-==============================================================================
 hello.s
 Graham Preston, 11/6/2024
 <gpreston@eou.edu>
-==============================================================================
 
 This sample NES demo is presented as part of my graduate research project
 for CS 407: Seminar at Eastern Oregon University.
